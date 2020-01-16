@@ -16,6 +16,13 @@ body {
      padding: 20px;
 }
 
+.project {
+	margin-left: 20px;
+	background-color:#deebf7;
+	padding: 20px;
+	width: 20px;
+}
+
 .jumbotron {
 	position: relative;
 	background: none;
